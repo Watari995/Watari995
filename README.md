@@ -12,4 +12,4 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=typescript, react, flutter, go" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,react,flutter,go" /> <br /><br />
