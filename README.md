@@ -8,5 +8,5 @@ Currently going deeper in backend engineering and distributed systems.
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,flutter,go,docker,linux,terraform,aws,neovim" />
+  <img src="https://skillicons.dev/icons?i=go,ts,flutter,docker,aws,terraform" />
 </p>
