@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hi%2C+I'm+Wataru+%F0%9F%91%8B;Software+Engineer+%7C+Go+%C2%B7+gRPC;Flutter+%C2%B7+TypeScript+%C2%B7+AWS;Building+products+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hi%2C+I'm+Wataru+Ichimura+%F0%9F%91%8B;Software+Engineer+%7C+Go+%C2%B7+gRPC;Flutter+%C2%B7+TypeScript+%C2%B7+AWS;Building+products+at+scale)](https://git.io/typing-svg)
 
 Full-stack engineer based in Tokyo with 3 years of production experience.  
 I build end-to-end systems — from Flutter mobile apps with **110K+ downloads** to **Go/gRPC microservices** on AWS ECS serving 100+ tenants.  
